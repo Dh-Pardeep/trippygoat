@@ -1,0 +1,7 @@
+.bg_img_hero{
+    background-image: url("./assets/webp/herosection.webp");
+    background-size: cover;
+    background-repeat: no-repeat ;
+    background-position: center;
+    height: calc(130vh - 84px);
+}
